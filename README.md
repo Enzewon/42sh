@@ -1,2 +1,5 @@
 # 42sh
-Implementing own bash-style shell
+
+Creating my own shell.
+
+Try it out!
